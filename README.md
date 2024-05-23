@@ -1,5 +1,5 @@
 ![MasterHead](https://assets-global.website-files.com/63ccf2f0ea97be12ead278ed/644a18b637053fa3709c5ba2_what-is-data-science-p-1080.jpg)
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 <h1 align="center">Hi 👋, I'm Emre ENGİN</h1>
 <h3 align="center">I'm a Biologist studying to be a Data Engineer</h3>
