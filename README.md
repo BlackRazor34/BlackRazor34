@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Emre ENGİN</h1>
 <h3 align="center">I'm a Biologist studying to be a Data Engineer</h3>
 
-- 🔭 I’m currently learning **Advanced Python**
+- 🔭 I’m currently learning **Advanced Python** / **Machine Learning** / **Deep Learning**
 
-- 🌱 I’m currently learning **CyberSecurity/ Management information Systems**
+- 🌱 I’m currently learning **Management information Systems**
 
 - 🤝 I’m looking for help with **Data Solutions**
 
